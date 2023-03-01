@@ -47,9 +47,9 @@ body{
 	overflow-x:hidden;
 }
 
-a,a:hover,a:active,a:focus {
+a:hover,a:active,a:focus {
 	display:inline-block;
-	text-decoration:none;
+	text-decoration:underline;
 	color: #6a708e;
 	font-size:16px;
 	padding:0;
@@ -61,6 +61,15 @@ h1,h2,h3,h4,h5,h6 {
 	font-family: 'Poppins', sans-serif;
 	text-transform: capitalize;
 }
+
+.myp{
+    margin: 0;
+    line-height:1.8;
+    color:gray;
+    font-size:16px;
+    font-family: 'Poppins', sans-serif; 
+}
+
 p {
 	margin: 0;
 	line-height:1.8;
@@ -78,6 +87,18 @@ ul li {
 	list-style: none;
 	
 }
+
+.puce{
+    list-style-type: square;
+}
+
+.mylink{
+    display:inline-block;
+    color:blue;
+    font-size:16px;
+    padding:0;
+}
+
 select,input,textarea,button{box-shadow:none;outline:0!important;}
 button {background: transparent;border: 0;}
 
