@@ -14,7 +14,7 @@ Before that, I was a postdoc researcher in Unité de Mathématiques Pures et App
 
 Research interest
 ------
-The core of my reseach activity is the construction and study of deterministic/stochastic models of complex phenomena from Biology and life sciences. More precisely, my work focuses on mathematical tools for applications in ecology, population genetics, (Meta)population dynamics, epidemiology and cell metabolism. 
+The core of my research activity is the construction and study of deterministic/stochastic models of complex phenomena from Biology and life sciences. More precisely, my work focuses on mathematical tools for applications in ecology, population genetics, (Meta)population dynamics, epidemiology and cell metabolism. 
 
 
 **Some keywords**
