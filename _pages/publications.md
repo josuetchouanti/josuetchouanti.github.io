@@ -9,7 +9,7 @@ Preprints
 ------
 1. Y. Fotso Fotso, **J. Tchouanti**, J. Ntahomvukiye and S. Bowong. Bifurcation analysis and optimal control of an infection age-structured epidemic model with vaccination and treatment. Under review. Preprint [**HAL**](https://hal.science/hal-04170982/) (2024).
 2. **J. Tchouanti**, E. Löcherbach, P. Reynaud-Bouret and E. Tanré. Separation rates for the detection of synchronization of interacting point processes in a mean field frame: application to neuroscience. Submitted. Preprint [**arXiv**](https://arxiv.org/abs/2402.01919) (2024).
-3. A. Lambert, H. Leman, H. Morlon and **J. Tchouanti**. Evolution of a trait distributed over a large fragmented population: Propagation of chaos meets adaptive dynamics. Submitted. Preprint [**HAL**](https://hal.science/hal-04873740) (2025).
+3. A. Lambert, H. Leman, H. Morlon and **J. Tchouanti**. Evolution of a trait distributed over a large fragmented population: Propagation of chaos meets adaptive dynamics. Submitted. Preprint [**HAL**](https://hal.science/hal-04873740); [**arXiv**](https://arxiv.org/abs/2503.13154) (2025).
 
 
 International journals with review
