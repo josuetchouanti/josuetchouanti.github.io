@@ -34,4 +34,4 @@ redirect_from:
 
 
 
-Find my detailed CV [here](/files/CV_13_03_2025.pdf) (in french).
+Find my detailed CV [here](/files/CV.pdf) (in french).
