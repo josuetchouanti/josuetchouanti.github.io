@@ -7,8 +7,8 @@ author_profile: true
 
 Preprints
 ------
-1. **J. Tchouanti**, E. Löcherbach, P. Reynaud-Bouret and E. Tanré. Separation rates for the detection of synchronization of interacting point processes in a mean field frame: application to neuroscience. Submitted. Preprint [**arXiv**](https://arxiv.org/abs/2402.01919) (2024).
-1. A. Lambert, H. Leman, H. Morlon and **J. Tchouanti**. Evolution of a trait distributed over a large fragmented population: Propagation of chaos meets adaptive dynamics. Submitted. Preprint [**HAL**](https://hal.science/hal-04873740); [**arXiv**](https://arxiv.org/abs/2503.13154) (2025).
+1. **J. Tchouanti**, E. Löcherbach, P. Reynaud-Bouret and E. Tanré. Separation rates for the detection of synchronization of interacting point processes in a mean field frame: application to neuroscience. Under revision. Preprint [**arXiv**](https://arxiv.org/abs/2402.01919) (2024).
+1. A. Lambert, H. Leman, H. Morlon and **J. Tchouanti**. Evolution of a trait distributed over a large fragmented population: Propagation of chaos meets adaptive dynamics. Under revision. Preprint [**HAL**](https://hal.science/hal-04873740); [**arXiv**](https://arxiv.org/abs/2503.13154) (2025).
 1. C. Djuikem and **J. Tchouanti**. Dynamics and control of maize infection by *Busseola fusca*: multi-seasonal modeling and biocontrol strategies. Submitted. Preprint [**arXiv**](https://arxiv.org/abs/2503.16615) (2025).
 
 
